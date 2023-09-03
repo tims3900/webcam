@@ -1,2 +1,2 @@
-# webcam
-use terminal as webcam
+# img to ascii
+get ascii version of an image
